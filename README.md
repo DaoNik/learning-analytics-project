@@ -33,7 +33,7 @@
 * `requirements.txt` — зависимости
 
 ### Ссылка на проект
-<!-- Вставьте ссылку на репозиторий или на блокнот в Google Colab -->
+Блокнот в colab: https://colab.research.google.com/drive/1ttY_Li1l9NxKNq5E7oM-HkyMGSLSiD8W#scrollTo=mSGwyToYqUpI
 
 ### Для запуска проекта
 1. Клонируйте репозиторий и перейдите в папку проекта
